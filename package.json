@@ -1,0 +1,22 @@
+{
+  "name": "gitpractice",
+  "version": "1.0.0",
+  "description": "<h1>This is kinda kool I think</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClassicHat/GitPractice.git"
+  },
+  "author": "DB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClassicHat/GitPractice/issues"
+  },
+  "homepage": "https://github.com/ClassicHat/GitPractice#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
